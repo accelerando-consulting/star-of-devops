@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Accelerando)(type Legacy)(uri /Users/chris/Microcode/robotics/kicad-libs/accelerando-kicad-libraries/Accelerando.lib)(options "")(descr ""))
+  (lib (name wemos_mini)(type Legacy)(uri /Users/chris/Microcode/robotics/kicad-libs/wemos-d1-mini-kicad/libraries/wemos_mini.lib)(options "")(descr ""))
+  (lib (name ugl)(type Legacy)(uri /Users/chris/Microcode/robotics/kicad-libs/ugl-kicad-lib/library/ugl.lib)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name wemos-d1-mini)(type KiCad)(uri /Users/chris/Microcode/robotics/kicad-libs/wemos-d1-mini-kicad/modules/wemos-d1-mini.pretty)(options "")(descr ""))
+  (lib (name Accelerando)(type KiCad)(uri /Users/chris/Microcode/robotics/kicad-libs/accelerando-kicad-libraries/Accelerando.pretty)(options "")(descr ""))
+)
